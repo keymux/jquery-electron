@@ -1,6 +1,6 @@
 {
   "name": "jquery-electron",
-  "version": "2.2.4",
+  "version": "3.3.1",
   "description": "jquery as an npm module",
   "repository": "git@github.com:keymux/jquery-electron",
   "private": false
